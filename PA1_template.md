@@ -128,7 +128,7 @@ hist(new_steps_day$steps,
 
 The new mean and median are 1.0766189\times 10^{4} and 1.0766189\times 10^{4} respectively.  
 
-Comparing it with that of the original data, there is practically no difference
+Comparing it with that of the original data, there is a difference as the new mean and median are the same
 
 
 
